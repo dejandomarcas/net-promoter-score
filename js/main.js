@@ -7,7 +7,7 @@
         this.id = '#nps';
         this.ind = qs('#vote');
         this.votes = qs('#votes');
-		this.success = qs('.npsSuccess');
+	this.success = qs('.npsSuccess');
         this.question = qs('.npsQuestion');
         this.buttons = qsa('.npsButton');
         this.hide = qsa('.npsHide');
