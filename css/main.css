@@ -204,6 +204,10 @@ body {
     text-align: center;
     width: 100%;
 }
+.buttons li {
+    display: inline-block;
+    list-style: none;
+}
 .npsButton p { 
     line-height: 0em;
     font-weight: bold;
